@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":3,"path":"folders/Objects.yy",},
+    {"name":"Sprite","order":1,"path":"folders/Sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Campfire","order":4,"path":"fonts/Campfire/Campfire.yy",},
+    {"name":"oFlag","order":1,"path":"objects/oFlag/oFlag.yy",},
+    {"name":"oPlatform","order":2,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"osolid","order":4,"path":"objects/osolid/osolid.yy",},
+    {"name":"oSpikes","order":3,"path":"objects/oSpikes/oSpikes.yy",},
+    {"name":"sflag","order":3,"path":"sprites/sflag/sflag.yy",},
+    {"name":"splatformer","order":2,"path":"sprites/splatformer/splatformer.yy",},
+    {"name":"sspikes","order":1,"path":"sprites/sspikes/sspikes.yy",},
+  ],
+}
